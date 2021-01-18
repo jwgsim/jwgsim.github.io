@@ -1,5 +1,8 @@
 ---
 layout: default
-title: About me
+title: 
 ---
-Hello and welcome to my personal webpage. My name is Jan-Willem Simons and .
+<p align="center">
+  <img src="https://hsto.org/webt/h0/ja/ga/h0jagadk0meqglw8vhy_b0m6zdq.png">
+</p>
+
