@@ -4,5 +4,5 @@ title: Curriculum Vitae
 permalink: /curriculumvitae/
 ---
 
-Please find my curriculum vitae <a href="https://jwgsim.github.io/markdown-cv/">here</a>.
+Please find my curriculum vitae <a href="https://raw.githubusercontent.com/jwgsim/jwgsim.github.io/master/assets/css/CV%20JWG%20Simons.pdf?token=ARBE2CSCG4PRF2Q3MXXHMMLBRKFXS">here</a>.
 
