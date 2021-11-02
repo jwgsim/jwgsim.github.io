@@ -2,4 +2,4 @@
 layout: default
 title: 
 ---
-<img src="/assets/images/assumption.png" class="center"> 
+<img src="/assets/images/home_image.jpg" class="center"> 
