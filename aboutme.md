@@ -2,8 +2,9 @@
 layout: default
 title: About me
 ---
-Greetings and welcome to my webpage. My name is Jan-Willem and I am a <a href="https://www.uu.nl/staff/JGSimons"> PhD student</a> at the <a href="https://www.uu.nl/en/organisation/sociology"> Utrecht University Sociology department</a>.    
+Greetings and welcome to my webpage. My name is Jan-Willem and I am a <a href="https://www.uu.nl/staff/JGSimons"> PhD student</a> at the 
+<a href="https://www.uu.nl/en/organisation/sociology"> Utrecht University Sociology department</a>.    
 
-The topic of my PhD thesis is how social norms diffuse within polarized social network structures. I am also interested in the application of methods and statistics to social networks. For samples of my work, please find my master thesis on the conditions under which a meta-analysis can be used to obtain a valid exponential random graph model over a network sample <a href="https://github.com/jwgsim/Master-Thesis-Research-Archive"> here</a>. 
+My PhD research examines how (1) socialisation and media influences shape ethnic majority attitudes and behaviours towards ethnic minorities and (2) how social norm and media interventions can influence these attitudes and behaviours by promoting more tolerant attitudes toward ethnic minorities. To address the first part, I employ systematic reviews and meta-analyses, while for the second, I utilize agent-based modeling and social network experiments.
 
-
+Beyond this main research focus, I am also interested in advancing methods and statistical approaches in the social and behavioral sciences, particularly hidden Markov models and exponential random graph models.
