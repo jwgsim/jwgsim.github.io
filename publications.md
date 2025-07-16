@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Jaspers, E., Van Zantvliet, P. I., & **Simons, J. W.** (2025). Interethnic Contact Norms and Interethnic Dating Among Ethnic Majority and Minority Adolescents in The Netherlands. Social Inclusion. Forthcoming.  
+Jaspers, E., Van Zantvliet, P. I., & **Simons, J. W.** (2025). How Descriptive Norms and Peer Attitudes Shape Interethnic Dating Among Adolescents in Dutch Schools. Social Inclusion. Forthcoming.  
 
 **Simons, J. W.**, Jaspers, E., & van Tubergen, F. (2025). Socialisation and ethnic majorities’ attitudes towards ethnic minorities: a systematic review and meta-analysis of correlational evidence. Journal of Ethnic and Migration Studies, 1–26. <a href="https://doi.org/10.1080/1369183X.2025.2472818"> https://doi.org/10.1080/1369183X.2025.2472818</a>
 
