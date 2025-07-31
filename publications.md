@@ -6,7 +6,7 @@ permalink: /publications/
 
 Heo, I., **Simons, J. W.**, Liu, H. (2025). A Tutorial on Bayesian Model Averaging for Exponential Random Graph Models. *British Journal of Mathematical and Statistical Psychology*. In press.  
 
-Jaspers, E., Van Zantvliet, P. I., & **Simons, J. W.** (2025). How Descriptive Norms and Peer Attitudes Shape Interethnic Dating Among Adolescents in Dutch Schools. *Social Inclusion, 13*. <a href="https://doi.org/10.17645/si.i438"> https://doi.org/10.17645/si.i438</a>.  
+Jaspers, E., Van Zantvliet, P. I., & **Simons, J. W.** (2025). How Descriptive Norms and Peer Attitudes Shape Interethnic Dating Among Adolescents in Dutch Schools. *Social Inclusion, 13*. <a href="https://doi.org/10.17645/si.10034"> https://doi.org/10.17645/si.10034</a>.  
 
 **Simons, J. W.**, Jaspers, E., & van Tubergen, F. (2025). Socialisation and ethnic majorities’ attitudes towards ethnic minorities: a systematic review and meta-analysis of correlational evidence. *Journal of Ethnic and Migration Studies, 51*(11), 2669-2694. <a href="https://doi.org/10.1080/1369183X.2025.2472818"> https://doi.org/10.1080/1369183X.2025.2472818</a>
 
