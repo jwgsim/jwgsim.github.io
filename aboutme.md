@@ -2,8 +2,8 @@
 layout: default
 title: About me
 ---
-Hello and welcome to my webpage. My name is Jan-Willem and I am a <a href="https://www.uu.nl/staff/JGSimons"> PhD student</a> at the Utrecht University <a href="https://www.uu.nl/en/organisation/sociology">Sociology</a> department.    
+Hello and welcome to my webpage. My name is Jan-Willem, and I am a <a href="https://www.uu.nl/staff/JGSimons"> PhD student</a> in the <a href="https://www.uu.nl/en/organisation/sociology">Sociology</a> department at Utrecht University .    
 
-My PhD research examines if and how (1) socialisation processes (or local social influences) and the media (or global social influences) shape ethnic majority attitudes and behaviours towards ethnic minorities and if and how (2) social norm and media interventions can be effective in promoting more positive attitudes and behaviours of ethnic majority towards ethnic minority members. To address the first research query, I use systematic reviews and meta-analyses, while to adress the second, I use agent-based modeling and social network experiments.
+My PhD research explores whether and how (1) socialisation processes (local social influences) and the media (global social influences) shape ethnic majority attitudes and behaviours toward ethnic minorities, and whether and how (2) social norm and media interventions can effectively promote more positive attitudes and behaviours among ethnic majority members. To address the first question, I use systematic reviews and meta-analyses; to address the second, I use agent-based modelling and social network experiments.
 
-Beyond this main research focus, I am also interested in advancing statistical methods in the social and behavioural sciences, currently particularly for hidden Markov models and exponential random graph models.
+Beyond this main focus, I am also interested in advancing statistical methods in the social and behavioural sciences, currently with a particular emphasis on hidden Markov models and exponential random graph models.
