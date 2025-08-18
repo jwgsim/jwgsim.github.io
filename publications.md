@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[5] Heo, I., **Simons, J.-W.**, & Liu, H. (2025). A Tutorial on Bayesian Model Averaging for Exponential Random Graph Models. *British Journal of Mathematical and Statistical Psychology*. <a href="https://doi.org/10.1111/bmsp.70007"> https://doi.org/10.1111/bmsp.70007</a>  
+[5] Heo, I., **Simons, J.-W.**, & Liu, H. (2025). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. <a href="https://doi.org/10.1111/bmsp.70007"> https://doi.org/10.1111/bmsp.70007</a>  
 
 [4] Jaspers, E., Van Zantvliet, P. I., & **Simons, J.-W.** (2025). How Descriptive Norms and Peer Attitudes Shape Interethnic Dating Among Adolescents in Dutch Schools. *Social Inclusion, 13*. <a href="https://doi.org/10.17645/si.10034"> https://doi.org/10.17645/si.10034</a>  
 
