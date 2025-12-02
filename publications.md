@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[6] **Simons, J.-W.**, Jaspers, E., & van Tubergen, F. (2025). Media influences on ethnic majority attitudes toward ethnic minorities: A systematic review and meta-analysis. *International Journal of Intercultural Relations, 110,* Article 102320. <a href="https://doi.org/10.1016/j.ijintrel.2025.102320"> https://doi.org/10.1016/j.ijintrel.2025.102320</a>
+[6] **Simons, J.-W.**, Jaspers, E., & van Tubergen, F. (2026). Media influences on ethnic majority attitudes toward ethnic minorities: A systematic review and meta-analysis. *International Journal of Intercultural Relations, 110,* Article 102320. <a href="https://doi.org/10.1016/j.ijintrel.2025.102320"> https://doi.org/10.1016/j.ijintrel.2025.102320</a>
 
 [5] Heo, I., **Simons, J.-W.**, & Liu, H. (2025). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. <a href="https://doi.org/10.1111/bmsp.70007"> https://doi.org/10.1111/bmsp.70007</a>  
 
