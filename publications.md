@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+[7] Schäfer, L., F., Tausch, N., Bukowski, M., Jaspers, E., Lubbers, M., J., Van Zalk, M., Ciorda, A., Potoczek, A., Estevan-Reina, L., Shani, M., **Simons, J.-W.**, Friehs, M., T., Gurbisz, D., Middendorf, W., M., Schäfer, S., J., Ullenboom, J., Graf, S., Hjerm, M., Lavest, C., Jasinskaja-Lahti, I., Kende, A., Petkanopoulou, K., Prati, F., & Christ, O. (2026). Associations between inclusivity norms and tolerance, contact, and cooperation amid polarization: Evidence from 12 European countries. *PNAS Nexus,* pgag087. <a href="https://doi.org/10.1093/pnasnexus/pgag087"> https://doi.org/10.1093/pnasnexus/pgag087</a>
+
 [6] **Simons, J.-W.**, Jaspers, E., & van Tubergen, F. (2026). Media influences on ethnic majority attitudes toward ethnic minorities: A systematic review and meta-analysis. *International Journal of Intercultural Relations, 110,* Article 102320. <a href="https://doi.org/10.1016/j.ijintrel.2025.102320"> https://doi.org/10.1016/j.ijintrel.2025.102320</a>
 
 [5] Heo, I., **Simons, J.-W.**, & Liu, H. (2025). A tutorial on Bayesian model averaging for exponential random graph models. *British Journal of Mathematical and Statistical Psychology*. <a href="https://doi.org/10.1111/bmsp.70007"> https://doi.org/10.1111/bmsp.70007</a>  
