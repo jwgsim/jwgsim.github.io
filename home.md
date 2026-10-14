@@ -1,7 +1,14 @@
 ---
-layout: default
-title: 
+layout: null
+permalink: /home/
 ---
-<div style="text-align: center;">
-  <img src="/assets/images/home_image.jpg" alt="Home Image" style="max-width: 100%; height: auto; display: inline-block;">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<link rel="canonical" href="/">
+<meta http-equiv="refresh" content="0; url=/">
+</head>
+<body><a href="/">Click here if you are not redirected.</a></body>
+</html>
