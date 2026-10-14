@@ -2,8 +2,8 @@
 layout: default
 title: About me
 ---
-Hello and welcome to my webpage. My name is Jan-Willem, and I am a PhD student in the Sociology department at Utrecht University.    
+Hello and welcome to my webpage. My name is Jan-Willem, and I am a PhD candidate in the Department of Sociology at Utrecht University.
 
-My PhD research explores whether and how (1) socialisation processes (local social influences) and the media (global social influences) shape ethnic majority attitudes and behaviours toward ethnic minorities, and whether and how (2) social norm and media interventions can effectively promote more positive attitudes and behaviours among ethnic majority members. To address the first question, I use systematic reviews and meta-analyses; to address the second, I use agent-based modelling and social network experiments.
+My doctoral research focuses on interethnic relations, and in particular on factors that are widely thought to shape them but whose role is not well established: social influence, specifically through socialisation and the media, and tolerance. To study these, I use systematic reviews and meta-analyses as well as stochastic actor-oriented models.
 
-Beyond this main focus, I am also interested in advancing statistical methods in the social and behavioural sciences, currently with a particular emphasis on hidden Markov models and exponential random graph models.
+I also work on understanding and improving the methods used to study interethnic relations, with a current focus on hidden Markov models and exponential random graph models.
